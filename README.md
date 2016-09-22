@@ -7,6 +7,6 @@ It's is open and free, but we ask all members to follow our etiquette / Code of 
 ## Slack-channel
 [www.vestfolddevelopers.no](www.vestfolddevelopers.no)
 
-## Code of Conduct
-TBD
+## Code of Conduct / Etiquette
+Read the [Etiquette](https://github.com/pavsaund/VestfoldDevelopers/blob/master/Etiquette_Norwegian.md) (Norwegian)
 
