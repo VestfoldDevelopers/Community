@@ -5,7 +5,7 @@ Vestfold Developers is an online community for developers, and anyone interested
 It's is open and free, but we ask all members to follow our etiquette / Code of Conduct
 
 ## Slack-channel
-[www.vestfolddevelopers.no](www.vestfolddevelopers.no)
+[slack.vestfolddevelopers.no](http://slack.vestfolddevelopers.no)
 
 ## Code of Conduct / Etiquette
 Read the [Etiquette](https://github.com/pavsaund/VestfoldDevelopers/blob/master/Etiquette_Norwegian.md) (Norwegian)
