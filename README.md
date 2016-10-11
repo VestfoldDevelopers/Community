@@ -1,3 +1,5 @@
+[![Slack Status](http://slack.vestfolddevelopers.no/badge.svg)](http://slack.vestfolddevelopers.no)
+
 # VestfoldDevelopers
 Vestfold Developers Etiquette / Code of Conduct
 
