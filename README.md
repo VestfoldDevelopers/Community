@@ -10,5 +10,5 @@ It's is open and free, but we ask all members to follow our etiquette / Code of 
 [slack.vestfolddevelopers.no](http://slack.vestfolddevelopers.no)
 
 ## Code of Conduct / Etiquette
-Read the etiquette in [Norwegian](https://github.com/pavsaund/VestfoldDevelopers/blob/master/Etiquette_Norwegian.md)or [English](https://github.com/pavsaund/VestfoldDevelopers/blob/master/Etiquette_English.md)
+Read the etiquette in [Norwegian](https://github.com/pavsaund/VestfoldDevelopers/blob/master/Etiquette_Norwegian.md) or [English](https://github.com/pavsaund/VestfoldDevelopers/blob/master/Etiquette_English.md)
 
