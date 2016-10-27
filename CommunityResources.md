@@ -3,9 +3,9 @@ This is an overview over online activities of the members of Vestfold Developers
 Please add your resources here.
 
 # Blogs
-- [reminyborg.com](reminyborg.com) - @remi
-- [codingwithempathy.com](codingwithempathy.com) @pavsaund
+- [reminyborg.com](http://reminyborg.com) - @remi
+- [codingwithempathy.com](http://codingwithempathy.com) @pavsaund
 - [ballofcode.com](http://www.ballofcode.com/) @tpresthus
 
 # Streaming / Video
-- [kodepanelet.no](kodepanelet.no) - @virrum, @tomasekeli, @simenhansen @pavsaund
+- [kodepanelet.no](http://kodepanelet.no) - @virrum, @tomasekeli, @simenhansen @pavsaund
