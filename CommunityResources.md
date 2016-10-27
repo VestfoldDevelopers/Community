@@ -5,6 +5,7 @@ Please add your resources here.
 # Blogs
 - [reminyborg.com](reminyborg.com) - @remi
 - [codingwithempathy.com](codingwithempathy.com) @pavsaund
+- [ballofcode.com](http://www.ballofcode.com/) @tpresthus
 
 # Streaming / Video
 - [kodepanelet.no](kodepanelet.no) - @virrum, @tomasekeli, @simenhansen @pavsaund
